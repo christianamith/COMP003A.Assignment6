@@ -15,7 +15,7 @@ namespace COMP003A.Assignment6
         {
             PrintSeperator("vehicle1");
             // the line below is one way you can instantiate a class
-            Vehicle vehicle1 = newCar();
+            Vehicle vehicle1 = new Car();
             vehicle1.Brand = "Ford"; // you can access its properties to get/set its value by using the syntax <variable>.<property>
             vehicle1.Model = "Focus";
             vehicle1.NumberOfWheels = 4;

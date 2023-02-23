@@ -6,11 +6,6 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COMP003A.Assignment6", "COMP003A.Assignment6\COMP003A.Assignment6.csproj", "{21D8212C-97B5-4875-A26A-9B93169E3D83}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{61CECBC8-0A23-45C5-B4BF-F0EACBA97C3F}"
-	ProjectSection(SolutionItems) = preProject
-		Vehicle.cs = Vehicle.cs
-		Truck.cs = Truck.cs
-		Car.cs = Car.cs
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
